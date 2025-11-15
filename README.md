@@ -1,1 +1,1 @@
-Ceci Represente mes tout premeir projets de Machine learning 
+Ceci Represente mes tous premiers projets de Machine learning.
